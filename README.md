@@ -1,0 +1,1 @@
+# kaggle-30d-competition
